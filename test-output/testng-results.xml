@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-29T20:23:40Z" name="Default suite" finished-at="2021-01-29T20:24:13Z" duration-ms="33535">
+    <groups>
+    </groups>
+    <test started-at="2021-01-29T20:23:40Z" name="Default test" finished-at="2021-01-29T20:24:13Z" duration-ms="33535">
+      <class name="Adidas.AdidasTest.ApiTest">
+        <test-method signature="AddUpdateDeleteNewPet()[pri:0, instance:Adidas.AdidasTest.ApiTest@38cee291]" started-at="2021-01-29T20:23:40Z" name="AddUpdateDeleteNewPet" finished-at="2021-01-29T20:23:59Z" duration-ms="19533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUpdateDeleteNewPet -->
+        <test-method signature="GetAvailablePets()[pri:0, instance:Adidas.AdidasTest.ApiTest@38cee291]" started-at="2021-01-29T20:23:59Z" name="GetAvailablePets" finished-at="2021-01-29T20:24:13Z" duration-ms="13940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAvailablePets -->
+      </class> <!-- Adidas.AdidasTest.ApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
